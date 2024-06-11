@@ -1,5 +1,5 @@
 - 👋 I'm VortexOoN, a computer science student specializing in Business Application Programming. I have a keen interest in web technologies and Java. I love to write usefull stuff.
-- 🎓 Computer Science student at [University Name], specializing in Business Application Programming.
+- 🎓 Computer Science student at WSB-NLU, specializing in Business Application Programming.
 - 💻 Enthusiast of web technologies including TypeScript, React, Node.js.
 - ☕ Java aficionado, particularly interested in backend applications.
 - 🚀 Always eager to learn new technologies and tools.
