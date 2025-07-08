@@ -2,7 +2,6 @@
 - 🎓 Computer Science student at WSB-NLU (3rd year), specializing in Business Application Programming.  
 - 💻 Enthusiast of backend development, particularly in C#.
 - 🌐 Currently exploring world of ASP.NET and building web applications
-- 🌐 Also exploring PHP for web development.  
 - 🚀 Always eager to learn new technologies and tools.  
 - 📧 [Email](mailto:wojciechmucha12@gmail.com)  
 <!---
