@@ -1,5 +1,7 @@
 # 👨‍💼 Profile:
-👋 I'm TheCrudClapper a Polish CS student.  <br>🎓 Computer Science student at WSB-NLU (4rd year), specializing in Business Application Programming.  <br>💻 Enthusiast of backend development, particularly with C# and .NET.<br>🌐 Currently exploring world of ASP.NET and Angular,  building web applications.<br>🚀 I love to try new things and experiment with technology
+👋 I'm TheCrudClapper a Polish Applied CS student.  <br>🎓 Computer Science student at WSZIB (1rd year master's), currently studying Information Technologies in Big Data.
+<br>👷🏻‍♂️🔧 Engineer of Computer Science, specialization in Business Application Programming, WSB-NLU
+<br>💻 Enthusiast of backend development, particularly with C# and .NET.<br>🌐 Currently exploring world of ASP.NET and Angular,  building web applications.<br>🚀 I love to try new things and experiment with technology
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wojciech-mucha-b127b0252) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:wojciechmucha12@gmail.com) 
