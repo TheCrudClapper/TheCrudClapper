@@ -1,6 +1,6 @@
 # 👨‍💼 Profile:
 👋 I'm TheCrudClapper a Polish CS engineer and student.  <br>🎓 Computer Science student at WSZIB (1st year master's), currently studying Information Technologies in Big Data.
-<br>👷🏻‍♂️🔧 Engineer of Computer Science, specialization in Business Application Programming, WSB-NLU
+<br>👷🏻‍♂️ Engineer of Computer Science, specialization in Business Application Programming, WSB-NLU
 <br>💻 Enthusiast of backend development, particularly with C# and .NET.<br>🌐 Currently exploring world of ASP.NET and Angular,  building web applications.<br>🚀 I love to try new things and experiment with technology
 
 # 🌐 Socials:
